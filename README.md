@@ -1,6 +1,6 @@
 # WOWS Chat Viewer
 
-A web-based tool to view chat messages from World of Warships replay files.
+A streamlit app to view chat messages from World of Warships replay files.
 
 ## How to use
 
@@ -12,9 +12,9 @@ This application allows you to:
 
 - 📁 Upload World of Warships replay files (`.wowsreplay`)
 - 📨 Extract and display all chat messages from the match
-- 💬　View messages categorized by type (team chat, all chat, etc.)
-- 💾　Export chat logs as text files
-- 📊　View statistics about chat activity
+- 💬 View messages categorized by type (team chat, all chat, etc.)
+- 💾 Export chat logs as text files
+- 📊 View statistics about chat activity
 
 ## Acknowledgments
 
