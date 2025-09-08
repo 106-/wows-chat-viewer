@@ -1,4 +1,4 @@
 streamlit
 pycryptodomex
 lxml
-git+https://github.com/106-/replays_unpack.git@119ba4d2b6d5ea82a1a87f59b1625289dc33c26e
+git+https://github.com/106-/replays_unpack.git@25b3d070a1974ac3410a35d496b42468acfdf3c4
